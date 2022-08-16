@@ -26,11 +26,11 @@
        
 ### An electro-mechanical data storage device known as a hard disk drive (HDD), hard disk, hard drive, or fixed disk stores and retrieves digital data using magnetic media.
        
-| dagem  | adane          |
+| init    |    programming     |
 | ------- | ------------------ |
-| is.x   | |:x:
+| 5.1.x   | :it was good k: |
 | 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
+| 4.0.x   | :it was badk: |
 | < 4.0   | :x:                |
 
 ## Reporting a Vulnerabilit
