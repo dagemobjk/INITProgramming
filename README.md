@@ -1,7 +1,5 @@
 # init-programming
 
-## <u>everywhere</u>
-
 ## what is the use of storage
 
 ### A computer can store data either temporarily or permanently using this mechanism. Most digital devices need storage components like flash drives and hard disks because they let users store all kinds of data, including videos, documents, pictures, and raw data.
@@ -25,4 +23,4 @@
        
 ### An electro-mechanical data storage device known as a hard disk drive (HDD), hard disk, hard drive, or fixed disk stores and retrieves digital data using magnetic media.
        
-       
+       <u> dagem </u>
