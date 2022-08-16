@@ -23,4 +23,4 @@
        
 ### An electro-mechanical data storage device known as a hard disk drive (HDD), hard disk, hard drive, or fixed disk stores and retrieves digital data using magnetic media.
        
-       <u>lfbanluhfa<ins>
+       <u> lfbanluhfa <ins>
