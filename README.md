@@ -20,7 +20,6 @@
       <LI>External HDDs and SSDs?
       <LI>Hard Disk Drives (HDD)
     </OL>
-       
 ## what is a floppy disks 
        
       ### A floppy disk is a tiny magnetic disk that was once used to store data and programs for computers. Particularly for use with personal computers, floppy disks were used
