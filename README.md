@@ -28,19 +28,9 @@
 ## what is external HDDS and SSD
        
 ### A simple external hard drive or SSD is a component that you plug into your computer to almost immediately add more storage space without having to access your computer's internal storage and perform upgrades.
-       <!DOCTYPE html>
-<html>
-   <head>
-      <title>HTML Backgorund Color</title>
-   </head>
-   <body style="background-color:grey;">
-      <h1>Products</h1>
-      <p>We have developed more than 10 products till now.</p>
-   </body>
-</html>
        
+## what is hard disk drives (HDD)
        
-       
-       
+### An electro-mechanical data storage device known as a hard disk drive (HDD), hard disk, hard drive, or fixed disk stores and retrieves digital data using magnetic media.
        
        
