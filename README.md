@@ -20,3 +20,18 @@
       <LI>External HDDs and SSDs?
       <LI>Hard Disk Drives (HDD)
     </OL>
+       
+## what is a floppy disks 
+       
+      ### A floppy disk is a tiny magnetic disk that was once used to store data and programs for computers. Particularly for use with personal computers, floppy disks were used
+      
+       ## what is external HDDS and SSD
+       
+       ### A simple external hard drive or SSD is a component that you plug into your computer to almost immediately add more storage space without having to access your computer's internal storage and perform upgrades.
+       
+       
+       
+       
+       
+       
+       
