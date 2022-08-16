@@ -1,5 +1,7 @@
 # init-programming
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
 # the main point of todays topic 
 ### When we looked at it in detail, it was all about learning about some programming languages, how computers were created, as well as how to use a text calculator and store information. It was truly amazing, and I wish I could continue to pursue this line of work as a career rather than just for fun.
 
