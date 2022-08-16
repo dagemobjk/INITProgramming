@@ -1,5 +1,8 @@
 # init-programming
 
+# the main point of todays topic 
+### When we looked at it in detail, it was all about learning about some programming languages, how computers were created, as well as how to use a text calculator and store information. It was truly amazing, and I wish I could continue to pursue this line of work as a career rather than just for fun.
+
 ## what is the use of storage
 
 ### A computer can store data either temporarily or permanently using this mechanism. Most digital devices need storage components like flash drives and hard disks because they let users store all kinds of data, including videos, documents, pictures, and raw data.
@@ -23,9 +26,6 @@
        
 ### An electro-mechanical data storage device known as a hard disk drive (HDD), hard disk, hard drive, or fixed disk stores and retrieves digital data using magnetic media.
        
-# the main point of todays topic 
-### When we looked at it in detail, it was all about learning about some programming languages, how computers were created, as well as how to use a text calculator and store information. It was truly amazing, and I wish I could continue to pursue this line of work as a career rather than just for fun.
-
 | dagem  | adane          |
 | ------- | ------------------ |
 | is.x   | |:x:
