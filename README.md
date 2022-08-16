@@ -1,26 +1,21 @@
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***init-programming ....***
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfaizanhaidar&theme=algolia" alt="muhammadfaizanhaidar"  /></p>
 
-<hr>
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadfaizanhaidar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadfaizanhaidar&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***TEXT CALCULATOR AND STORAGE ....***
 
-<hr>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>DAGEM ADANE </b></i></p>
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadfaizanhaidar&theme=juicyfresh&no-bg=true" />
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>THE MAIN POINT OF TODAYS TOPIC</b></i></p>
 
-
-# the main point of todays topic 
 ### When we looked at it in detail, it was all about learning about some programming languages, how computers were created, as well as how to use a text calculator and store information. It was truly amazing, and I wish I could continue to pursue this line of work as a career rather than just for fun.
 
-## what is the use of storage
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>WHAT IS TEXT</b></i></p>
+
+## Text is typically a collection of words or letters that the reader can understand. Using a text editor or word processing program, text can be added, viewed, edited, and modified on a computer. Most frequently, a keyboard is used to add text.
+
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>WHAT IS CALCULATOR </b></i></p>
+
+## An electronic hardware or software tool called a calculator is used to perform mathematical operations like addition, multiplication, subtraction, and division.
 
 ### A computer can store data either temporarily or permanently using this mechanism. Most digital devices need storage components like flash drives and hard disks because they let users store all kinds of data, including videos, documents, pictures, and raw data.
 
@@ -30,24 +25,17 @@
       <LI>External HDDs and SSDs?
       <LI>Hard Disk Drives (HDD)
     </OL>
-    
-## what is a floppy disks 
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>what is a floppy disks</b></i></p>    
+ 
        
 ### A floppy disk is a tiny magnetic disk that was once used to store data and programs for computers. Particularly for use with personal computers, floppy disks were used
-      
-## what is external HDDS and SSD
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b> what is external HDDS and SSD</b></i></p>      
        
-### A simple external hard drive or SSD is a component that you plug into your computer to almost immediately add more storage space without having to access your computer's internal storage and perform upgrades.
-       
-## what is hard disk drives (HDD)
-       
-### An electro-mechanical data storage device known as a hard disk drive (HDD), hard disk, hard drive, or fixed disk stores and retrieves digital data using magnetic media.
-       
-| init    |    programming     |
-| ------- | ------------------ |
-| 5.1.x   | :: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :It was bad: |
-| < 4.0   | :x:                |
+### A simple external hard drive or SSD is a component that you plug into your computer to almost immediately add more storage space without having to access your computer's internal storage and perform upgrades
+ .
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>what is hard disk drives (HDD)</b></i></p>       
 
-## Reporting a Vulnerabilit
+### An electro-mechanical data storage device known as a hard disk drive (HDD), hard disk, hard drive, or fixed disk stores and retrieves digital data using magnetic media.
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***THANKS TO EVERYONE ....***
+### 🔥 Streak Stats
+       
