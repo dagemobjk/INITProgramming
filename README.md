@@ -30,24 +30,14 @@
 ### A simple external hard drive or SSD is a component that you plug into your computer to almost immediately add more storage space without having to access your computer's internal storage and perform upgrades.
        <!DOCTYPE html>
 <html>
-
-<head>
-  <title>Our Company</title>
-</head>
-
-<body>
-
-  <h1>Welcome to Our Company</h1>
-  <h2>Web Site Main Ingredients:</h2>
-
-  <p>Pages (HTML)</p>
-  <p>Style Sheets (CSS)</p>
-  <p>Computer Code (JavaScript)</p>
-  <p>Live Data (Files and Databases)</p>
-
-</body>
+   <head>
+      <title>HTML Backgorund Color</title>
+   </head>
+   <body style="background-color:grey;">
+      <h1>Products</h1>
+      <p>We have developed more than 10 products till now.</p>
+   </body>
 </html>
-       
        
        
        
