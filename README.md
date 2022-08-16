@@ -1,6 +1,6 @@
 # init-programming
 
-## <u>s everywhere </u>
+## <u>everywhere</u>
 
 ## what is the use of storage
 
