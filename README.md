@@ -15,9 +15,8 @@
 ### A computer can store data either temporarily or permanently using this mechanism. Most digital devices need storage components like flash drives and hard disks because they let users store all kinds of data, including videos, documents, pictures, and raw data.
 
  <OL>
-      <LH>types of storage </LH>
- ## dagem 
+      <LH>types of storage for example </LH>
       <LI>Floppy Disks.
-      <LI>Do we need yet more meetings?
-      <LI>Any other business
+      <LI>External HDDs and SSDs?
+      <LI>Hard Disk Drives (HDD)
     </OL>
