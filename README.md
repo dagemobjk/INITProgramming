@@ -28,9 +28,9 @@
        
 | init    |    programming     |
 | ------- | ------------------ |
-| 5.1.x   | :it was good k: |
+| 5.1.x   | :: |
 | 5.0.x   | :x:                |
-| 4.0.x   | :it was badk: |
+| 4.0.x   | :It was bad: |
 | < 4.0   | :x:                |
 
 ## Reporting a Vulnerabilit
