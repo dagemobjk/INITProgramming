@@ -24,6 +24,10 @@
 
 ### A computer can store data either temporarily or permanently using this mechanism. Most digital devices need storage components like flash drives and hard disks because they let users store all kinds of data, including videos, documents, pictures, and raw data.
 
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Where did the name calculator come from? </b></i></p>
+
+## Calculator is a 14th-century noun meaning a mathematician or someone who performs calculations. It comes from the Latin calculatus, which is the past tense of the verb calculare, which means to reckon or compute (see calculus). dated 1784, of mechanical adding machine devices. electronic ones, dating back to 1946.
+
  <OL>
       <LH>types of storage for example </LH>
       <LI>Floppy Disks.
